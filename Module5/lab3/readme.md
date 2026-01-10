@@ -4,4 +4,6 @@
 
 <h1>2. Видео-демонстрация результатов:</h1>
 
-![Демонстрация работы модуля](resources/video2.gif)
+<video width="800" controls>
+  <source src="resources/video2.mp4" type="video/mp4">
+</video>
