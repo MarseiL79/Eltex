@@ -4,4 +4,4 @@
 
 <h1>2. Видео-демонстрация результатов:</h1>
 
-<video controls src="resources/result.mp4" title="Video-result"></video>
+<video controls src="resources/video2.gif" title="Video-result"></video>
