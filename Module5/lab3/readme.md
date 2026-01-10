@@ -4,6 +4,4 @@
 
 <h1>2. Видео-демонстрация результатов:</h1>
 
-<video width="800" controls>
-  <source src="resources/video2.mp4" type="video/mp4">
-</video>
+![hippo](gresources/video2.gif) 
